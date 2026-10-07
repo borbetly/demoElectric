@@ -1,0 +1,12 @@
+.env
+
+/profRef/electric_company (4)-2.sql
+
+/writable/cache/*
+!/writable/cache/index.html
+/writable/logs/*
+!/writable/logs/index.html
+/writable/session/*
+!/writable/session/index.html
+/writable/uploads/*
+!/writable/uploads/index.html
